@@ -1,3 +1,5 @@
+Géré par : RABETOKOTANY Ny Tsanta Fiderana
+
 # Brainstorming - Mahiratra Groupe Landing Page
 
 ## Contexte
